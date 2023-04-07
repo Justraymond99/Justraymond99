@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ray Ray
+- 👋 Hi, I’m Raymond
 - 👀 I’m interested in Backend/Fullstack Development
-- 🌱 I’m currently learning HTML/CSS, Javascript and SQL
-- 💞️ I’m looking to collaborate on nothing right now!
+- 🌱 I’m currently learning HTML/CSS, Javascript and SQL, C++
+- 💞️ I’m looking to collaborate on everything right now!
 - 📫 How to reach me ...
 
 <!---
