@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Raymond
-- 👀 I’m interested in Backend/Fullstack Development
-- 🌱 I’m currently learning HTML/CSS, Javascript and SQL, C++
-- 💞️ I’m looking to collaborate on everything right now!
-- 📫 How to reach me ...
+Just a developer from the Bronx.
 
 <!---
 Justraymond99/Justraymond99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
