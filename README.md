@@ -1,39 +1,121 @@
-# Raymond Sekyere
+<div align="center">
 
-**Software Engineer | Backend Systems · Distributed Services · Applied AI**
+<a href="https://github.com/Justraymond99">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,55:61152E,100:E63946&height=240&section=header&text=RAYMOND%20SEKYERE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BACKEND%20ENGINEER%20%7C%20DISTRIBUTED%20SYSTEMS%20%7C%20RELIABILITY&descSize=17&descAlignY=60&descColor=F1B9C3" alt="Raymond Sekyere — Backend Engineering" />
+</a>
 
-Building reliable software from APIs and control planes to products people actually use. Based in New York City, with a focus on **Go, Python, TypeScript, PostgreSQL, Redis, and cloud infrastructure**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=FF6675&center=true&vCenter=true&width=820&height=55&lines=%3E+building+systems+that+hold+up+under+pressure;%3E+concurrency+%7C+observability+%7C+reliability;%3E+shipping+in+Go+and+beyond" alt="Animated engineering focus" />
 
-I'm especially interested in service reliability, concurrency, system design, observability, and the engineering trade-offs behind scalable backends.
+**Building reliable software, understanding the failure modes, and making the next iteration better.**
 
-## Selected engineering work
+[![GitHub](https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justraymond99)
 
-| Project | Engineering focus |
-| --- | --- |
-| [Aero-Arc Registry](https://github.com/Justraymond99/aero-arc-registry) | Go/gRPC control plane for relay discovery, TTL-based liveness, agent ownership, and pluggable storage. |
-| [Aero-Arc API](https://github.com/Justraymond99/aero-arc-api) | Go API layer separating fleet dashboards and operational workflows from registry, telemetry, and durable storage. |
-| [Aero-Arc Relay](https://github.com/Justraymond99/aero-arc-relay) | Go telemetry ingestion, buffering, backpressure, and operational visibility for robotics systems. |
-| [Buddy Walk](https://github.com/Justraymond99/buddy_walk) | Accessibility-first mobile assistance for blind and low-vision users, combining AI-powered visual Q&A, spoken responses, navigation, and haptics. |
-| [ATLAS](https://github.com/Justraymond99/agents) | Provider-agnostic agent orchestration with typed workflows, bounded concurrency, persistence, and tracing. |
-| **Final Form** | AI-powered fitness and nutrition product built with React, TypeScript, Supabase, and mobile tooling. Code currently private. |
+</div>
 
-## What I'm working on
+---
 
-- **Backend reliability:** failure-path tests, graceful degradation, idempotency, and operational diagnostics.
-- **Performance:** reproducible Go benchmarks, latency distributions, concurrency testing, and profiling.
-- **Shipping:** small, reviewable changes backed by tests, documentation, and clearly scoped releases.
+### `> whoami`
 
-## Toolbox
+```go
+package main
 
-**Languages:** Go · Python · TypeScript · JavaScript · C++  
-**Backend:** Go `net/http` · gRPC · Node.js · FastAPI · REST APIs  
-**Data:** PostgreSQL · Redis · MongoDB  
-**Infrastructure:** Docker · AWS · GitHub Actions · Prometheus · Grafana  
-**Product:** React · Next.js · React Native
+type Engineer struct {
+    Focus     []string
+    Languages []string
+    Building  []string
+    Location  string
+}
 
-## Connect
+var raymond = Engineer{
+    Focus:     []string{"Backend Engineering", "Distributed Systems", "Reliability"},
+    Languages: []string{"Go", "TypeScript", "SQL"},
+    Building:  []string{"API Gateway", "Message Broker", "Key-Value Store"},
+    Location:  "New York City",
+}
+```
 
-- [LinkedIn](https://www.linkedin.com/in/raymond-sekyere-86b0b1240/)
-- [GitHub repositories](https://github.com/Justraymond99?tab=repositories)
+I'm a software engineer focused on **backend systems, infrastructure, and production reliability**. I enjoy working through the unglamorous but important questions: What happens under concurrency? What breaks when a dependency fails? How do we know a system is healthy?
 
-> From the Bronx. Building systems that are useful, observable, and built to last.
+Currently sharpening my systems engineering skills through hands-on Go projects, collaborative application development, and a growing focus on testability and observability.
+
+### `> selected_work`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛰️ Aero Arc
+**Drone telemetry registry · backend systems**
+
+A Go-based telemetry registry exploring agent liveness, concurrent updates, reconnection behavior, and operational visibility.
+
+`Go` `gRPC` `Redis` `Prometheus`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🦮 Buddy Walk
+**Accessibility-oriented application · reliability**
+
+Contributing to quality engineering, CI safeguards, failure-path testing, and observability to reduce regressions as the application grows.
+
+[Repository](https://github.com/Buddy-Walk/buddy-walk)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ Systems Engineering Lab
+**Go infrastructure projects · in progress**
+
+Building toward an API gateway, message broker, key-value database, job scheduler, and observability platform. Focus: architecture decisions, correctness, testing, and measured tradeoffs.
+
+`Go` `HTTP` `Concurrency` `Distributed Systems`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧭 ATLAS Agents
+**Developer workflows · tooling**
+
+Experimenting with reusable AI-assisted engineering workflows, safe installation, validation, and review processes.
+
+[Repository](https://github.com/Justraymond99/agents)
+
+</td>
+</tr>
+</table>
+
+### `> engineering_principles`
+
+```text
+01  Correctness before cleverness.
+02  Design for failure, not just the happy path.
+03  Make behavior observable.
+04  Automate checks; keep humans accountable.
+05  Benchmark claims. Document tradeoffs.
+```
+
+### `> toolkit`
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=go,ts,js,react,nodejs,postgres,redis,docker,git,github,linux,githubactions&perline=12&theme=dark" alt="Go, TypeScript, JavaScript, React, Node.js, PostgreSQL, Redis, Docker, Git, GitHub, Linux, GitHub Actions" />
+</div>
+
+### `> current_focus`
+
+- **Go internals:** concurrency, context cancellation, error handling, and service lifecycle.
+- **Backend architecture:** idempotency, data consistency, API design, and failure recovery.
+- **Reliability engineering:** CI gates, integration tests, monitoring, and incident prevention.
+- **Systems design:** turning tradeoffs into working, testable implementations.
+
+---
+
+<div align="center">
+
+**BUILD IT. BREAK IT. UNDERSTAND IT. MAKE IT RELIABLE.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:61152E,100:09090F&height=110&section=footer" alt="Footer" />
+
+</div>
