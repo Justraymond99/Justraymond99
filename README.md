@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/Justraymond99">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,55:61152E,100:E63946&height=240&section=header&text=RAYMOND%20SEKYERE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20PYTHON%20%26%20GO%20%7C%20RELIABILITY&descSize=17&descAlignY=60&descColor=F1B9C3" alt="Raymond Sekyere — Backend Engineering" />
-</a>
+<h1>RAYMOND SEKYERE</h1>
+
+<h3>Full-Stack Software Engineer | Python & Go | Infrastructure & Reliability</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=FF6675&center=true&vCenter=true&width=820&height=55&lines=%3E+building+systems+that+hold+up+under+pressure;%3E+concurrency+%7C+observability+%7C+reliability;%3E+shipping+in+Go+and+beyond" alt="Animated engineering focus" />
 
@@ -120,6 +120,6 @@ Building a fitness platform with workout tracking, progress workflows, and AI-as
 
 **BUILD IT. BREAK IT. UNDERSTAND IT. MAKE IT RELIABLE.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:61152E,100:09090F&height=110&section=footer" alt="Footer" />
+
 
 </div>
