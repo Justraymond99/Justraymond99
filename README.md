@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/Justraymond99">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,55:61152E,100:E63946&height=240&section=header&text=RAYMOND%20SEKYERE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BACKEND%20ENGINEER%20%7C%20DISTRIBUTED%20SYSTEMS%20%7C%20RELIABILITY&descSize=17&descAlignY=60&descColor=F1B9C3" alt="Raymond Sekyere — Backend Engineering" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,55:61152E,100:E63946&height=240&section=header&text=RAYMOND%20SEKYERE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20INFRASTRUCTURE%20%7C%20RELIABILITY&descSize=17&descAlignY=60&descColor=F1B9C3" alt="Raymond Sekyere — Backend Engineering" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=FF6675&center=true&vCenter=true&width=820&height=55&lines=%3E+building+systems+that+hold+up+under+pressure;%3E+concurrency+%7C+observability+%7C+reliability;%3E+shipping+in+Go+and+beyond" alt="Animated engineering focus" />
 
-**Building reliable software, understanding the failure modes, and making the next iteration better.**
+**Full-stack software engineer with a focus on backend systems, infrastructure, and reliability.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justraymond99)
 
@@ -27,14 +27,14 @@ type Engineer struct {
 }
 
 var raymond = Engineer{
-    Focus:     []string{"Backend Engineering", "Distributed Systems", "Reliability"},
+    Focus:     []string{"Full-Stack Engineering", "Infrastructure", "Reliability"},
     Languages: []string{"Go", "TypeScript", "SQL"},
     Building:  []string{"API Gateway", "Message Broker", "Key-Value Store"},
     Location:  "New York City",
 }
 ```
 
-I'm a software engineer focused on **backend systems, infrastructure, and production reliability**. I enjoy working through the unglamorous but important questions: What happens under concurrency? What breaks when a dependency fails? How do we know a system is healthy?
+I'm a **full-stack software engineer** with experience building end-to-end applications and a growing specialization in **backend systems, infrastructure, and production reliability**. I enjoy working through the unglamorous but important questions: What happens under concurrency? What breaks when a dependency fails? How do we know a system is healthy?
 
 Currently sharpening my systems engineering skills through hands-on Go projects, collaborative application development, and a growing focus on testability and observability.
 
