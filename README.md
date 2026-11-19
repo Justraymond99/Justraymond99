@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>RAYMOND SEKYERE</h1>
-
-<h3>Full-Stack Software Engineer | Python & Go | Infrastructure & Reliability</h3>
+<a href="https://github.com/Justraymond99"><img src="./assets/profile-banner.svg" width="100%" alt="Raymond Sekyere — Full-Stack Software Engineer, Python and Go, Infrastructure and Reliability" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=FF6675&center=true&vCenter=true&width=820&height=55&lines=%3E+building+systems+that+hold+up+under+pressure;%3E+concurrency+%7C+observability+%7C+reliability;%3E+shipping+in+Go+and+beyond" alt="Animated engineering focus" />
 
