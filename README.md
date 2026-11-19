@@ -44,17 +44,19 @@ Currently sharpening my systems engineering skills through hands-on Go projects,
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ Aero Arc
+#### 🛰️ [Aero Arc](https://github.com/Justraymond99/aero-arc-registry)
 **Drone telemetry registry · backend systems**
 
 A Go-based telemetry registry exploring agent liveness, concurrent updates, reconnection behavior, and operational visibility.
 
 `Go` `gRPC` `Redis` `Prometheus`
 
+[Registry](https://github.com/Justraymond99/aero-arc-registry) · [API](https://github.com/Justraymond99/aero-arc-api) · [Relay](https://github.com/Justraymond99/aero-arc-relay)
+
 </td>
 <td width="50%" valign="top">
 
-#### 🦮 Buddy Walk
+#### 🦮 [Buddy Walk](https://github.com/Buddy-Walk/buddy-walk)
 **Accessibility-oriented application · reliability**
 
 Contributing to quality engineering, CI safeguards, failure-path testing, and observability to reduce regressions as the application grows.
@@ -76,12 +78,14 @@ Building toward an API gateway, message broker, key-value database, job schedule
 </td>
 <td width="50%" valign="top">
 
-#### 💪 Final Form
+#### 💪 [Final Form](https://github.com/Justraymond99/final-form-ai)
 **Fitness SaaS · full-stack product engineering**
 
 Building a fitness platform with workout tracking, progress workflows, and AI-assisted features, with attention to data access controls, auditability, and offline functionality.
 
 `React` `TypeScript` `Supabase` `PWA`
+
+[Repository (private)](https://github.com/Justraymond99/final-form-ai)
 
 </td>
 </tr>
