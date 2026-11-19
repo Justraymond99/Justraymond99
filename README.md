@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/Justraymond99">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,55:61152E,100:E63946&height=240&section=header&text=RAYMOND%20SEKYERE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20INFRASTRUCTURE%20%7C%20RELIABILITY&descSize=17&descAlignY=60&descColor=F1B9C3" alt="Raymond Sekyere — Backend Engineering" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,55:61152E,100:E63946&height=240&section=header&text=RAYMOND%20SEKYERE&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20PYTHON%20%26%20GO%20%7C%20RELIABILITY&descSize=17&descAlignY=60&descColor=F1B9C3" alt="Raymond Sekyere — Backend Engineering" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=FF6675&center=true&vCenter=true&width=820&height=55&lines=%3E+building+systems+that+hold+up+under+pressure;%3E+concurrency+%7C+observability+%7C+reliability;%3E+shipping+in+Go+and+beyond" alt="Animated engineering focus" />
 
-**Full-stack software engineer with a focus on backend systems, infrastructure, and reliability.**
+**Full-stack software engineer · Python & Go · infrastructure, distributed systems, and reliability.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justraymond99)
 
@@ -28,13 +28,13 @@ type Engineer struct {
 
 var raymond = Engineer{
     Focus:     []string{"Full-Stack Engineering", "Infrastructure", "Reliability"},
-    Languages: []string{"Go", "TypeScript", "SQL"},
+    Languages: []string{"Python", "Go", "TypeScript", "JavaScript", "SQL"},
     Building:  []string{"API Gateway", "Message Broker", "Key-Value Store"},
     Location:  "New York City",
 }
 ```
 
-I'm a **full-stack software engineer** with experience building end-to-end applications and a growing specialization in **backend systems, infrastructure, and production reliability**. I enjoy working through the unglamorous but important questions: What happens under concurrency? What breaks when a dependency fails? How do we know a system is healthy?
+I'm a **full-stack software engineer** working extensively with **Python and Go**, with experience building end-to-end applications and a growing specialization in **backend systems, infrastructure, and production reliability**. I enjoy working through the unglamorous but important questions: What happens under concurrency? What breaks when a dependency fails? How do we know a system is healthy?
 
 Currently sharpening my systems engineering skills through hands-on Go projects, collaborative application development, and a growing focus on testability and observability.
 
@@ -104,12 +104,12 @@ Building a fitness platform with workout tracking, progress workflows, and AI-as
 ### `> toolkit`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=go,ts,js,react,nodejs,postgres,redis,docker,git,github,linux,githubactions&perline=12&theme=dark" alt="Go, TypeScript, JavaScript, React, Node.js, PostgreSQL, Redis, Docker, Git, GitHub, Linux, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nodejs,postgres,redis,docker,git,github,linux,githubactions&perline=12&theme=dark" alt="Python, Go, TypeScript, JavaScript, React, Node.js, PostgreSQL, Redis, Docker, Git, GitHub, Linux, GitHub Actions" />
 </div>
 
 ### `> current_focus`
 
-- **Go internals:** concurrency, context cancellation, error handling, and service lifecycle.
+- **Python & Go:** backend development, concurrency, context cancellation, error handling, and service lifecycle.
 - **Backend architecture:** idempotency, data consistency, API design, and failure recovery.
 - **Reliability engineering:** CI gates, integration tests, monitoring, and incident prevention.
 - **Systems design:** turning tradeoffs into working, testable implementations.
