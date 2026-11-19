@@ -66,7 +66,7 @@ Contributing to quality engineering, CI safeguards, failure-path testing, and ob
 <tr>
 <td width="50%" valign="top">
 
-#### ⚙️ Systems Engineering Lab
+#### ⚙️ Ironclad Systems
 **Go infrastructure projects · in progress**
 
 Building toward an API gateway, message broker, key-value database, job scheduler, and observability platform. Focus: architecture decisions, correctness, testing, and measured tradeoffs.
@@ -76,12 +76,12 @@ Building toward an API gateway, message broker, key-value database, job schedule
 </td>
 <td width="50%" valign="top">
 
-#### 🧭 ATLAS Agents
-**Developer workflows · tooling**
+#### 💪 Final Form
+**Fitness SaaS · full-stack product engineering**
 
-Experimenting with reusable AI-assisted engineering workflows, safe installation, validation, and review processes.
+Building a fitness platform with workout tracking, progress workflows, and AI-assisted features, with attention to data access controls, auditability, and offline functionality.
 
-[Repository](https://github.com/Justraymond99/agents)
+`React` `TypeScript` `Supabase` `PWA`
 
 </td>
 </tr>
